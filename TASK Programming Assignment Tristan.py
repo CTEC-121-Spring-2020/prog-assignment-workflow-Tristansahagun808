@@ -1,8 +1,8 @@
 """
 CTEC 121
-<your name>
-<assignment/lab name>
-<assignment/lab description
+<Tristan Sahagun>
+<Programming Assignment>
+<Learn how to use Git and VSC through practice>
 """
 
 """ IPO template
@@ -12,6 +12,8 @@ Output: return value and description
 """
 
 def main():
-    # code here
+    print("こにちわ")
+    print("Aloha")
+    print("Howdy")
 
 main()    
